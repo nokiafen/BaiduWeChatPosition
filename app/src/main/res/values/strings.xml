@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaiduWeChatPosition</string>
+    <string name="location_send">确定</string>
+</resources>
